@@ -1,3 +1,7 @@
+// C code that impelements shell command.
+// Input: shell command
+// Output: execution of input shell command
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
